@@ -1,5 +1,6 @@
 void clearDisplay(){
   display.clearDisplay();
+  display_out();
 }
 
 void setTextSize(int size){
